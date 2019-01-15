@@ -15,8 +15,8 @@ Most notably, it makes use of [Django](https://www.djangoproject.com) and [Djang
 
 ## Documentation
 
-* TODO
+* [Installation](https://github.com/MikaSoftware/mikaid/wiki/Installation)
 
 ## License
 
-UserVault is Licensed under the BSD 3 Clause.
+UserVault is Licensed under the [BSD 3 Clause](https://github.com/MikaSoftware/mikaid/blob/master/LICENSE).
