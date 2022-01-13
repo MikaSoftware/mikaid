@@ -8,7 +8,7 @@ django-starterkit==1.0.4
 djangorestframework==3.9.0
 idna==2.8
 oauthlib==3.0.0
-Pillow==5.4.1
+Pillow==9.0.0
 psycopg2-binary==2.7.6.1
 pytz==2018.9
 requests==2.21.0
